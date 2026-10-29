@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 6322b926-b979-4617-ac7a-61ef8b2efc01
-  # title: Prénom NOM
+  # title: Wassily Höfer
   # description:
   # keywords: []
   # authors: []
@@ -20,7 +20,7 @@ site:
     hide_footer_links: true
     # favicon: favicon.ico
     logo: content/other/site_logo.png
-    logo_text: "Prénom NOM"
+    logo_text: "Wassily Höfer"
   nav: []
   parts: 
     footer: []
